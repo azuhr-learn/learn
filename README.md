@@ -1,4 +1,4 @@
- S# Recognition Quiz Webpage
+Recognition Quiz Webpage
 
 Welcome! 🎉
 
