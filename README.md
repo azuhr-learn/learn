@@ -1,4 +1,4 @@
-Recognition Quiz Webpage
+My Recognition Style Quiz Webpage
 
 Welcome! 🎉
 
